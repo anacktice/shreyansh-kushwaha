@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shreyansh-kushwaha
-- 👀 I’m interested in Programming.
+- 👀 I’m interested in Python Programming.
 - 🌱 I’m currently learning python and JavaScript on the side
 - 💞️ I’m looking to collaborate on Python programming.
 - 📫 You can contact me on my E-mail - shreyansh.halk@gmail.com
